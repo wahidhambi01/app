@@ -1,0 +1,7 @@
+{
+  "name": "AI Budget",
+  "description": "แอปพลิเคชันจัดการการเงินและพอร์ตโฟลิโออัจฉริยะ พร้อมผู้ช่วย AI และระบบสแกนสลิป",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
